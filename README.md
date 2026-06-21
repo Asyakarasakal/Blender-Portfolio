@@ -15,8 +15,6 @@ A collection of my 3D modeling, environment design, and asset creation projects 
 
 ## Gallery
 
-## Gallery
-
 ### Fish Tank
 
 <img src="Fish%20Tank.png" width="800">
