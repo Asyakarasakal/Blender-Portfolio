@@ -15,4 +15,4 @@ A collection of my 3D modeling, environment design, and asset creation projects 
 
 ## Gallery
 
-Screenshots and renders will be added here.
+Project renders and screenshots.
