@@ -15,4 +15,4 @@ A collection of my 3D modeling, environment design, and asset creation projects 
 
 ## Gallery
 
-![Fish Tank](Fish Tank.png)
+<img src="Fish%20Tank.png" width="800">
