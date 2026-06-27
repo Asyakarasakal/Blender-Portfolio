@@ -84,9 +84,8 @@ A collection of my Blender projects, including stylized characters, props, and e
 
 
 
-## Theater Environment
+## Theater 
 
-<img src="Tiyatro 1.jpeg" width="500"> 
-<img src="Tiyatro 2.jpeg" width="500"> 
 <img src="Tiyatro 3.jpeg" width="500">
-
+<img src="Tiyatro 2.jpeg" width="500"> 
+<img src="Tiyatro 1.jpeg" width="500"> 
