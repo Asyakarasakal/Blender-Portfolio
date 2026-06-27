@@ -86,3 +86,31 @@ Designed and modeled the theater interior, including the stage, audience seating
 Simple stylized low poly house modeled from scratch.
 
 <img src="Low Poly ev.jpeg" width="700">
+
+---
+
+# Previous Projects
+
+These are some of my earlier Blender projects that helped me improve my modeling, lighting, and environment design skills.
+
+## Fish Tank
+
+<img src="Fish Tank.png" width="700">
+
+---
+
+## Hall
+
+<img src="Hall.png" width="700">
+
+---
+
+## Room
+
+<img src="Room.png" width="700">
+
+---
+
+## Street
+
+<img src="Street.png" width="700">
