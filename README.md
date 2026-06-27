@@ -2,8 +2,6 @@
 
 A collection of my Blender projects created from scratch, including stylized characters, props, and environment designs. These projects showcase my experience in low-poly modeling, environment creation, asset design, and game-ready workflows.
 
----
-
 ## Software
 
 - Blender
@@ -17,35 +15,29 @@ A collection of my Blender projects created from scratch, including stylized cha
 - Stylized Art
 - Game Ready Assets
 
----
+  ---
 
 # Character Models
 
 ## Cartoon Cat
 
-Stylized cartoon character modeled entirely from scratch in Blender.
-
 **Render**
 
-<img src="Cat.jpeg" width="700">
+<img src="Cat.jpeg" width="500">
 
 **Wireframe**
 
-<img src="Cat Wire.jpeg" width="700">
-
----
+<img src="Cat Wire.jpeg" width="500">
 
 ## Stylized Girl
 
-Stylized low poly character modeled entirely from scratch in Blender.
-
 **Render**
 
-<img src="Low Poly Character.jpeg" width="700">
+<img src="Low Poly Character.jpeg" width="500">
 
 **Wireframe**
 
-<img src="low poly wire.jpeg" width="700">
+<img src="low poly wire.jpeg" width="500">
 
 ---
 
@@ -53,15 +45,13 @@ Stylized low poly character modeled entirely from scratch in Blender.
 
 ## Retro Ray Gun
 
-Stylized sci-fi weapon modeled from scratch in Blender.
-
 **Render**
 
-<img src="gun.jpeg" width="700">
+<img src="gun.jpeg" width="500">
 
 **Wireframe**
 
-<img src="gun wireframe.jpeg" width="700">
+<img src="gun wireframe.jpeg" width="500">
 
 ---
 
@@ -73,44 +63,32 @@ Created for a Game Jam project.
 
 Designed and modeled the theater interior, including the stage, audience seating, curtains, furniture, and overall scene composition.
 
-<img src="Tiyatro 1.jpeg" width="700">
+<img src="Tiyatro 1.jpeg" width="500">
 
-<img src="Tiyatro 2.jpeg" width="700">
+<img src="Tiyatro 2.jpeg" width="500">
 
-<img src="Tiyatro 3.jpeg" width="700">
+<img src="Tiyatro 3.jpeg" width="500">
 
 ---
 
 ## Stylized House
 
-Simple stylized low poly house modeled from scratch.
-
-<img src="Low Poly ev.jpeg" width="700">
-
----
-
-# Previous Projects
-
-These are some of my earlier Blender projects that helped me improve my modeling, lighting, and environment design skills.
+<img src="Low Poly ev.jpeg" width="500">
 
 ## Fish Tank
 
-<img src="Fish Tank.png" width="700">
-
----
+<img src="Fish Tank.png" width="500">
 
 ## Hall
 
-<img src="Hall.png" width="700">
-
----
+<img src="Hall.png" width="500">
 
 ## Room
 
-<img src="Room.png" width="700">
-
----
+<img src="Room.png" width="500">
 
 ## Street
+
+<img src="Street.png" width="500">
 
 <img src="Street.png" width="700">
