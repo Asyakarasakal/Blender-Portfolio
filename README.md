@@ -15,7 +15,7 @@ A collection of my Blender projects, including stylized characters, props, and e
 - Stylized Art
 - Game Ready Assets
 
-  ---
+
 
 ## Cartoon Cat
 
