@@ -17,6 +17,25 @@ A collection of my Blender projects, including stylized characters, props, and e
 
 
 
+
+## Fish Tank
+
+<img src="Fish Tank.png" width="500">
+
+
+
+## Hall
+
+<img src="Hall.png" width="500">
+
+
+
+## Room
+
+<img src="Room.png" width="500">
+
+
+
 ## Cartoon Cat
 
 **Render**
@@ -71,24 +90,6 @@ Designed and modeled the theater interior, including the stage, audience seating
 
 
 
-## Fish Tank
-
-<img src="Fish Tank.png" width="500">
-
-
-
-## Hall
-
-<img src="Hall.png" width="500">
-
-## Room
-
-<img src="Room.png" width="500">
-
-
-
 ## Street
 
 <img src="Street.png" width="500">
-
-<img src="Street.png" width="700">
