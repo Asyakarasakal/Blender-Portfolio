@@ -72,13 +72,10 @@ A collection of my Blender projects, including stylized characters, props, and e
 
 
 
-## Theater Environment
+## Street
 
-<p align="center">
-  <img src="Tiyatro 1.jpeg" width="300">
-  <img src="Tiyatro 2.jpeg" width="300">
-  <img src="Tiyatro 3.jpeg" width="300">
-</p>
+<img src="Street.png" width="500">
+
 
 
 ## Stylized House
@@ -87,6 +84,9 @@ A collection of my Blender projects, including stylized characters, props, and e
 
 
 
-## Street
+## Theater Environment
 
-<img src="Street.png" width="500">
+<img src="Tiyatro 1.jpeg" width="500"> 
+<img src="Tiyatro 2.jpeg" width="500"> 
+<img src="Tiyatro 3.jpeg" width="500">
+
