@@ -1,6 +1,6 @@
 # Blender Portfolio
 
-A collection of my Blender projects created from scratch, including stylized characters, props, and environment designs. These projects showcase my experience in low-poly modeling, environment creation, asset design, and game-ready workflows.
+A collection of my Blender projects, including stylized characters, props, and environments created from scratch.
 
 ## Software
 
@@ -17,8 +17,6 @@ A collection of my Blender projects created from scratch, including stylized cha
 
   ---
 
-# Character Models
-
 ## Cartoon Cat
 
 **Render**
@@ -28,6 +26,8 @@ A collection of my Blender projects created from scratch, including stylized cha
 **Wireframe**
 
 <img src="Cat Wire.jpeg" width="500">
+
+
 
 ## Stylized Girl
 
@@ -39,9 +39,7 @@ A collection of my Blender projects created from scratch, including stylized cha
 
 <img src="low poly wire.jpeg" width="500">
 
----
 
-# Props
 
 ## Retro Ray Gun
 
@@ -53,13 +51,9 @@ A collection of my Blender projects created from scratch, including stylized cha
 
 <img src="gun wireframe.jpeg" width="500">
 
----
 
-# Environment Designs
 
 ## Theater Environment
-
-Created for a Game Jam project.
 
 Designed and modeled the theater interior, including the stage, audience seating, curtains, furniture, and overall scene composition.
 
@@ -69,15 +63,19 @@ Designed and modeled the theater interior, including the stage, audience seating
 
 <img src="Tiyatro 3.jpeg" width="500">
 
----
+
 
 ## Stylized House
 
 <img src="Low Poly ev.jpeg" width="500">
 
+
+
 ## Fish Tank
 
 <img src="Fish Tank.png" width="500">
+
+
 
 ## Hall
 
@@ -86,6 +84,8 @@ Designed and modeled the theater interior, including the stage, audience seating
 ## Room
 
 <img src="Room.png" width="500">
+
+
 
 ## Street
 
