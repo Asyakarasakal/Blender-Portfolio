@@ -36,6 +36,19 @@ A collection of my Blender projects, including stylized characters, props, and e
 
 
 
+## Street
+
+<img src="Street.png" width="500">
+
+
+
+## Theater 
+
+<img src="Tiyatro 3.jpeg" width="500">
+<img src="Tiyatro 2.jpeg" width="500">  
+
+
+
 ## Cartoon Cat
 
 **Render**
@@ -72,20 +85,8 @@ A collection of my Blender projects, including stylized characters, props, and e
 
 
 
-## Street
-
-<img src="Street.png" width="500">
-
-
-
 ## Stylized House
 
 <img src="Low Poly ev.jpeg" width="500">
 
 
-
-## Theater 
-
-<img src="Tiyatro 3.jpeg" width="500">
-<img src="Tiyatro 2.jpeg" width="500"> 
-<img src="Tiyatro 1.jpeg" width="500"> 
