@@ -74,14 +74,11 @@ A collection of my Blender projects, including stylized characters, props, and e
 
 ## Theater Environment
 
-Designed and modeled the theater interior, including the stage, audience seating, curtains, furniture, and overall scene composition.
-
-<img src="Tiyatro 1.jpeg" width="500">
-
-<img src="Tiyatro 2.jpeg" width="500">
-
-<img src="Tiyatro 3.jpeg" width="500">
-
+<p align="center">
+  <img src="Tiyatro 1.jpeg" width="300">
+  <img src="Tiyatro 2.jpeg" width="300">
+  <img src="Tiyatro 3.jpeg" width="300">
+</p>
 
 
 ## Stylized House
